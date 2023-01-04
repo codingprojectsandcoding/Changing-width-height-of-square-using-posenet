@@ -17,3 +17,7 @@ background-color: burlywood;
 line-height: 3;
 text-align: center;
 }
+canvas {
+border-radius: 20px;
+box-shadow: 5px 5px 5px gray;
+}
